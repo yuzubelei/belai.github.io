@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-size: cover;
+	width: 100vh;
+	align-items: center;
+}
+
+#header{
+	padding-left: 25rem;
+	height: 37rem;
+	width: 94.8rem;
+	background-color: black;
+}
+
+#header h1{
+	padding-top: 2rem;
+}
+
+#header img{
+	width: 18rem;
+	border-radius: 50%;
+}
+
+#content{
+	margin-top: 5rem;
+	margin-left: 25rem;
+}
+
+#project{
+	margin-top: 5rem;
+	margin-left: 25rem;
+}
+
+#project1{
+	padding-top: 2.5rem;
+	height: 35rem;
+}
+
+#project2{
+	padding-top: 2.5rem;
+	height: 35rem;
+}
+
+#project3{
+	padding-top: 2.5rem;
+	width: 20rem;
+}
+
